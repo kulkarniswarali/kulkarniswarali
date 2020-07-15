@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="./profilepic.jpeg" width="200">
+<img src="https://drive.google.com/drive/folders/1teZUk1lmo7W6j0tJHYvWsFQcbKIBcNoO" width="200">
 
 I am Swarali Kulkarni, Computer Science Graduate, based in Pune. I am keen on learning new technologies. Currently I am learning web developement frameworks, namely Django and React. 
 
