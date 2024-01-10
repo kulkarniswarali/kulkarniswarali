@@ -27,6 +27,7 @@ I'm a passionate Python Developer with over 3 years of experience in full-stack 
 - **Languages:** Python, JavaScript
 - **Frameworks:** Django
 - **Front-end:** HTML, CSS, Bootstrap
+- **API:** REST
 - **Cloud:** Google Cloud Platform (GCP)
 - **Tools:** Git, Postman, CI/CD
 - **Servers:** Gunicorn, Nginx
