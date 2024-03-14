@@ -22,6 +22,7 @@ I'm a passionate Python Developer with over 3 years of experience in full-stack 
 - 🚀 Full Stack Developer with expertise in designing, deploying, and maintaining web systems.
 - 👩‍💻 Independently developed and managed three diverse web applications, showcasing proficiency in the entire development lifecycle.
 - 🌐 Collaborated with cross-functional teams and clients in Manufacturing and FMCG industries, ensuring user-centric and impactful solutions.
+- 🚀 Currently honing my skills in data analysis using Python through Coursera courses, I'm excited about diving deeper into this field and exploring its potential applications.
 
 #### 🌟 Key Skills
 - **Languages:** Python, JavaScript
